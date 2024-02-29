@@ -3,6 +3,8 @@
 <h2>Overview</h2>
 Our team developed an interactive blogging website that allows users to create personalized accounts, write and read articles, and interact with other users' content. The platform was implemented using a scalable three-tier architecture. Blog administrators are then authorized to view all blog users' information in a Swing-based desktop application and can make executive decisions to permanently remove users from the database. 
 
+(*codebase is made private by academic institution)
+
 <h2>💻Technologies used</h2>
 <ul>
   <li>Presentation layer: HTML, CSS, JavaScript, Java </li>
